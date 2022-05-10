@@ -1,0 +1,1442 @@
+Controller starting
+Time Elapsed: 1
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 2
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 3
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 4
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 5
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 6
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 7
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 8
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 9
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 10
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 11
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 12
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 13
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 14
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 15
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 16
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 17
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 18
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 19
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 20
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 21
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 22
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 23
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 24
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 25
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 26
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 27
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 28
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 29
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 30
+***************************************
+false false false true false false false true false false 
+false false false true false false false false true false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true true false 
+true false false false false false true false false true 
+false true true false true false true false false false 
+false false true false false false false true false false 
+Time Elapsed: 31
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 32
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 33
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 34
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 35
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 36
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 37
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 38
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 39
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 40
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 41
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 42
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 43
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 44
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 45
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 46
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 47
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 48
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 49
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 50
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 51
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 52
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 53
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 54
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 55
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 56
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 57
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 58
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 59
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 60
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 61
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 62
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 63
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 64
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 65
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 66
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 67
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 68
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 69
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 70
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 71
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 72
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 73
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 74
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 75
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 76
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 77
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 78
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 79
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 80
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 81
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 82
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 83
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 84
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 85
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 86
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 87
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 88
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 89
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 90
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 91
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 92
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 93
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 94
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 95
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 96
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 97
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 98
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 99
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 100
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 101
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 102
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 103
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 104
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 105
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 106
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 107
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 108
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 109
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 110
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 111
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 112
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 113
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 114
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 115
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 116
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 117
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 118
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 119
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Time Elapsed: 120
+***************************************
+false false false true false false false true false false 
+false false false true false false false false false false 
+false false false false true false false false true true 
+true true false false false false true false false false 
+false false false false false false false false true false 
+false false false false false false false false false false 
+false false false true false false false true false false 
+true false false false false false true false false true 
+false false true false true false false false false false 
+false false true false false false false true false false 
+Controller exiting

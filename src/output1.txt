@@ -1,0 +1,3221 @@
+Node Starting
+Time: 0
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 1
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 2
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 3
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 4
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 5
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 6
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: []
+List 0: []
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: []
+List 0: []
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 7
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 8
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 9
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 10
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 11
+Hello FileProcess:  * 3 HELLO UNIDIR 0 1 6 BIDIR MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, 0, 1, 6, BIDIR, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR MPR
+HELLO Debug10:  * 3 HELLO UNIDIR 0 1 6 BIDIR MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: [1, 6]
+List 0: []
+List 0: []
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR 0 6 9 BIDIR MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, 0, 6, 9, BIDIR, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR MPR
+HELLO Debug10:  * 7 HELLO UNIDIR 0 6 9 BIDIR MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: [6, 9]
+List 0: []
+List 0: []
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 12
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 13
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 14
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 15
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 16
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 6 MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, 6, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR 0 1 6 BIDIR MPR
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 6 MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: [1, 6]
+List 0: []
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 6 9 MPR
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, 6, 9, MPR]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR 0 6 9 BIDIR MPR
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 6 9 MPR
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: [6, 9]
+List 0: []
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 17
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 18
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 19
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 20
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 21
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 6 MPR
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: [1]
+List 0: [6]
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 6 9 MPR
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: []
+List 0: [6, 9]
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 22
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 23
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 24
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 25
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 26
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 27
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 28
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 29
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 30
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 31
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 1 MS 0 1
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 1, MS, 0, 1]
+Hello HandleTcMsgDebug3 3 3 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 1 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 1, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 32
+Hello FileProcess:  * 7 TC 6 1 MS 3 7 8
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 6, 1, MS, 3, 7, 8]
+Hello HandleTcMsgDebug3 7 6 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 1 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 1, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 33
+Hello FileProcess:  * 7 TC 3 1 MS 0 1
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 1, MS, 0, 1]
+Hello HandleTcMsgDebug3 7 3 1
+Hello HandleTcMsgDebug4 latest_seq :1
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 1 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 1, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 34
+Hello FileProcess:  * 7 TC 8 1 MS 1 2 4 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 1, MS, 1, 2, 4, 6]
+Hello HandleTcMsgDebug3 7 8 1
+Hello HandleTcMsgDebug4 latest_seq :0
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 35
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 36
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 37
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 38
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 39
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 40
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 41
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 42
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 2 MS 0 1
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 2, MS, 0, 1]
+Hello HandleTcMsgDebug3 3 3 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 2 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 2, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 43
+Hello FileProcess:  * 7 TC 6 2 MS 3 7 8
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 6, 2, MS, 3, 7, 8]
+Hello HandleTcMsgDebug3 7 6 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 2 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 2, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 44
+Hello FileProcess:  * 7 TC 3 2 MS 0 1
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 2, MS, 0, 1]
+Hello HandleTcMsgDebug3 7 3 2
+Hello HandleTcMsgDebug4 latest_seq :2
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 2 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 2, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 2 MS 1 2 4 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 2, MS, 1, 2, 4, 6]
+Hello HandleTcMsgDebug3 7 8 2
+Hello HandleTcMsgDebug4 latest_seq :1
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 45
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 46
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 0, 1, MPR, 6]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 0, MPR, 6, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 47
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 48
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 49
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 50
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Time to send DATA message
+Entry found for DATA message
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 51
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 0 1 MPR 6
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: [1, 6]
+List 0: []
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 3 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 3, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 0 MPR 6 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug11 
+HELLO Debug12 
+HELLO Debug UNIDIR processed
+HELLO DEBUG UNIDIRBIDIR
+HELLO Debug BIDIR processed
+HELLO Debug MPR processed
+List 0: []
+List 0: [6]
+List 0: [9]
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 3 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 3, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 52
+Hello FileProcess:  * 3 TC 6 3 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 6, 3, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 6 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 6 3 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 6, 3, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 6 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 3 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 3, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 53
+Hello FileProcess:  * 3 TC 7 3 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 3, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 3 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 3, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 3 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 3, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 54
+Hello FileProcess:  * 3 TC 9 3 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 3, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 3 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 3, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 3
+Hello HandleTcMsgDebug4 latest_seq :2
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 55
+Hello FileProcess:  * 3 TC 2 3 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 3, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 56
+Hello FileProcess:  * 3 TC 8 3 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 3, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 3
+Hello HandleTcMsgDebug4 latest_seq :3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 57
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 58
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 59
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 60
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 61
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 62
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 4 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 4, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 4
+Hello HandleTcMsgDebug4 latest_seq :3
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 4 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 4, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 4
+Hello HandleTcMsgDebug4 latest_seq :3
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 1 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 1, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 1
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 63
+Hello FileProcess:  * 3 TC 0 1 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 1, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 1
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 4 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 4, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 4
+Hello HandleTcMsgDebug4 latest_seq :3
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 4 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 4, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 4
+Hello HandleTcMsgDebug4 latest_seq :3
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 4 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 4, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 4
+Hello HandleTcMsgDebug4 latest_seq :3
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 64
+Hello FileProcess:  * 3 TC 7 4 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 4, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 4
+Hello HandleTcMsgDebug4 latest_seq :4
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 4 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 4, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 4
+Hello HandleTcMsgDebug4 latest_seq :4
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 65
+Hello FileProcess:  * 3 TC 9 4 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 4, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 4
+Hello HandleTcMsgDebug4 latest_seq :4
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 8 4 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 4, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 4
+Hello HandleTcMsgDebug4 latest_seq :4
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 2 4 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 4, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 4
+Hello HandleTcMsgDebug4 latest_seq :4
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 66
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 67
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 68
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 69
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 70
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 71
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 5 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 5, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 5
+Hello HandleTcMsgDebug4 latest_seq :4
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 5 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 5, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 5
+Hello HandleTcMsgDebug4 latest_seq :4
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 72
+Hello FileProcess:  * 3 TC 0 2 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 2, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 2
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 2 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 2, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 2
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 5 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 5, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 5
+Hello HandleTcMsgDebug4 latest_seq :4
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 73
+Hello FileProcess:  * 3 TC 7 5 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 5, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 5
+Hello HandleTcMsgDebug4 latest_seq :5
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 5 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 5, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 5
+Hello HandleTcMsgDebug4 latest_seq :5
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 5 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 5, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 5
+Hello HandleTcMsgDebug4 latest_seq :4
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 74
+Hello FileProcess:  * 3 TC 9 5 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 5, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 5
+Hello HandleTcMsgDebug4 latest_seq :5
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 5 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 5, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 5
+Hello HandleTcMsgDebug4 latest_seq :4
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 75
+Hello FileProcess:  * 3 TC 2 5 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 5, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 5
+Hello HandleTcMsgDebug4 latest_seq :5
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 76
+Hello FileProcess:  * 3 TC 8 5 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 5, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 5
+Hello HandleTcMsgDebug4 latest_seq :5
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 77
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 78
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 79
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 80
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 81
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 82
+Hello FileProcess:  * 3 TC 0 3 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 3, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 3
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 6 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 6, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 6
+Hello HandleTcMsgDebug4 latest_seq :5
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 3 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 3, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 3
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 6 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 6, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 6
+Hello HandleTcMsgDebug4 latest_seq :5
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 83
+Hello FileProcess:  * 7 TC 9 6 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 6, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 6
+Hello HandleTcMsgDebug4 latest_seq :5
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 6 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 6, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 6
+Hello HandleTcMsgDebug4 latest_seq :5
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 6 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 6, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 6
+Hello HandleTcMsgDebug4 latest_seq :5
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 84
+Hello FileProcess:  * 3 TC 7 6 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 6, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 6
+Hello HandleTcMsgDebug4 latest_seq :6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 6 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 6, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 6
+Hello HandleTcMsgDebug4 latest_seq :6
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 85
+Hello FileProcess:  * 3 TC 9 6 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 6, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 6
+Hello HandleTcMsgDebug4 latest_seq :6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 8 6 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 6, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 6
+Hello HandleTcMsgDebug4 latest_seq :6
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 2 6 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 6, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 6
+Hello HandleTcMsgDebug4 latest_seq :6
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 86
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 87
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 88
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 89
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 90
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 91
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 7 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 7, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 7
+Hello HandleTcMsgDebug4 latest_seq :6
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 7 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 7, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 7
+Hello HandleTcMsgDebug4 latest_seq :6
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 92
+Hello FileProcess:  * 3 TC 0 4 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 4, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 4
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 4 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 4, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 4
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 7 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 7, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 7
+Hello HandleTcMsgDebug4 latest_seq :6
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 93
+Hello FileProcess:  * 3 TC 7 7 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 7, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 7
+Hello HandleTcMsgDebug4 latest_seq :7
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 7 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 7, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 7
+Hello HandleTcMsgDebug4 latest_seq :7
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 7 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 7, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 7
+Hello HandleTcMsgDebug4 latest_seq :6
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 94
+Hello FileProcess:  * 3 TC 9 7 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 7, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 7
+Hello HandleTcMsgDebug4 latest_seq :7
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 7 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 7, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 7
+Hello HandleTcMsgDebug4 latest_seq :6
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 95
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 96
+Hello FileProcess:  * 3 TC 2 7 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 7, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 7
+Hello HandleTcMsgDebug4 latest_seq :7
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 97
+Hello FileProcess:  * 3 TC 8 7 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 7, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 7
+Hello HandleTcMsgDebug4 latest_seq :7
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 98
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 99
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 100
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 101
+Hello FileProcess:  0 3 DATA 3 2 message from 3
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  DATA
+messagefrom3
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 8 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 8, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 8
+Hello HandleTcMsgDebug4 latest_seq :7
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 8 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 8, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 8
+Hello HandleTcMsgDebug4 latest_seq :7
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 102
+Hello FileProcess:  * 3 TC 0 5 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 5, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 5
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 5 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 5, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 5
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 8 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 8, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 8
+Hello HandleTcMsgDebug4 latest_seq :7
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 103
+Hello FileProcess:  * 3 TC 7 8 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 8, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 8
+Hello HandleTcMsgDebug4 latest_seq :8
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 8 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 8, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 8
+Hello HandleTcMsgDebug4 latest_seq :8
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 8 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 8, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 8
+Hello HandleTcMsgDebug4 latest_seq :7
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 104
+Hello FileProcess:  * 3 TC 9 8 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 8, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 8
+Hello HandleTcMsgDebug4 latest_seq :8
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 8 8 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 8, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 8
+Hello HandleTcMsgDebug4 latest_seq :7
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 105
+Hello FileProcess:  * 3 TC 2 8 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 8, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 8
+Hello HandleTcMsgDebug4 latest_seq :8
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 106
+Hello FileProcess:  * 3 TC 8 8 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 8, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 8
+Hello HandleTcMsgDebug4 latest_seq :8
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 107
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 108
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 109
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 110
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 111
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 3 9 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 3, 9, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 3 3 9
+Hello HandleTcMsgDebug4 latest_seq :8
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 7 9 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 7, 9, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 7 7 9
+Hello HandleTcMsgDebug4 latest_seq :8
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 112
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 113
+Hello FileProcess:  * 3 TC 0 6 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 0, 6, MS, 3, 7]
+Hello HandleTcMsgDebug3 3 0 6
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 0 6 MS 3 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 0, 6, MS, 3, 7]
+Hello HandleTcMsgDebug3 7 0 6
+Hello HandleTcMsgDebug4 latest_seq :0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 9 9 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 9, 9, MS, 2, 7]
+Hello HandleTcMsgDebug3 7 9 9
+Hello HandleTcMsgDebug4 latest_seq :8
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 114
+Hello FileProcess:  * 3 TC 7 9 MS 0 6 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 7, 9, MS, 0, 6, 9]
+Hello HandleTcMsgDebug3 3 7 9
+Hello HandleTcMsgDebug4 latest_seq :9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 TC 9 9 MS 2 7
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 9, 9, MS, 2, 7]
+Hello HandleTcMsgDebug3 3 9 9
+Hello HandleTcMsgDebug4 latest_seq :9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 3 9 MS 0 1 6
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 3, 9, MS, 0, 1, 6]
+Hello HandleTcMsgDebug3 7 3 9
+Hello HandleTcMsgDebug4 latest_seq :9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 TC 2 9 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 2, 9, MS, 8, 9]
+Hello HandleTcMsgDebug3 7 2 9
+Hello HandleTcMsgDebug4 latest_seq :8
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 115
+Hello FileProcess:  * 7 TC 8 9 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 7, TC, 8, 9, MS, 2, 4]
+Hello HandleTcMsgDebug3 7 8 9
+Hello HandleTcMsgDebug4 latest_seq :8
+Hello HandleTcMsgDebug5
+Hello HandleTcMsgDebug6
+Hello HandleTcMsgDebug7
+Hello HandleTcMsgDebug9
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug10
+Hello HandleTcMsgDebug11
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 116
+Hello FileProcess:  * 3 TC 2 9 MS 8 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 2, 9, MS, 8, 9]
+Hello HandleTcMsgDebug3 3 2 9
+Hello HandleTcMsgDebug4 latest_seq :9
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 3, HELLO, UNIDIR, BIDIR, 1, 6, MPR, 0]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO Debug10:  * 3 HELLO UNIDIR BIDIR 1 6 MPR 0
+HELLO FileProcessDebug1 
+Hello FileProcess:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  HELLO
+Handling Hello Message
+HELLO Debug1 
+HELLO Debug2 [*, 7, HELLO, UNIDIR, BIDIR, 6, MPR, 0, 9]
+HELLO Debug2 
+HELLO Debug3 
+HELLO Debug4 
+HELLO Debug5 
+HELLO Debug6 
+HELLO Debug7 
+HELLO Debug8 
+HELLO Debug9 
+HELLO Debug10 
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO Debug10:  * 7 HELLO UNIDIR BIDIR 6 MPR 0 9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 117
+Hello FileProcess:  * 3 TC 8 9 MS 2 4
+Hello FileProcess Debug -4
+Hello FileProcessDebug:  TC
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug1
+Hello HandleTcMsgDebug2 :[*, 3, TC, 8, 9, MS, 2, 4]
+Hello HandleTcMsgDebug3 3 8 9
+Hello HandleTcMsgDebug4 latest_seq :9
+HELLO FileProcessDebug1 
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 118
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Time: 119
+HELLO FileProcessDebug2 
+HELLO FileProcessDebug2 
+Debug Check1
+Debug Check2
+Debug Check3
+Debug Check4
+Debug Check5
+Debug Check6
+Node Exiting
